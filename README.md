@@ -2,3 +2,4 @@
 - z-index and stacking context
 - BFC
 - clearing techniques
+- image replacement
