@@ -5,4 +5,4 @@
 - image replacement
 - grid system
 - CSS preprocessors
-- writing efficient CSSv
+- writing efficient CSS
