@@ -7,3 +7,4 @@
 - CSS preprocessors
 - writing efficient CSS
 - responsive design & adaptive design
+- translate() & absolute positioning
