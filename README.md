@@ -6,3 +6,4 @@
 - grid system
 - CSS preprocessors
 - writing efficient CSS
+- responsive design & adaptive design
