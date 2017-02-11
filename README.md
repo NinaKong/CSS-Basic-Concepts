@@ -9,14 +9,13 @@
 - responsive design & adaptive design
 - translate() & absolute positioning
 - hide a element
-<table>
-<tr>Method               Affect                                                             Screen Reader   User Interaction</tr>
+<tr>Method               Affect                                                        Screen Reader   User Interaction</tr>
 Opacity:0            occupies its position and affects the layout of the web page       Y               Y
 Visibility: hidden;  affect the layout,                                                 N               N
                      the descendants of an element can still be visible
 display: none;       there is no empty space left behind                                N               N
                      All the descendants of our element will be hidden as well
-</table>
+Position                                                                                Y
                      
                      
 
