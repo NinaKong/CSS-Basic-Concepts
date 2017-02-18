@@ -17,5 +17,6 @@ display: none;       there is no empty space left behind                        
                      All the descendants of our element will be hidden as well
 Position                                                                                Y
                      
+- overflow:hidden vs clear:both
                      
 
