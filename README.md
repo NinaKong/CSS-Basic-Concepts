@@ -18,5 +18,6 @@ display: none;       there is no empty space left behind                        
 Position                                                                                Y
                      
 - clearfix vs overflow:hidden vs clear:both
+- Box modal
                      
 
